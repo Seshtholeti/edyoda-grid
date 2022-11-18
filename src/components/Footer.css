@@ -1,0 +1,10 @@
+.footer-section{
+    background-color: #172746;
+    width: 100%;
+    height: 200px;
+    color: azure;
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    padding-top: 90px;
+}
